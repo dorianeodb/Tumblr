@@ -8,7 +8,7 @@
 
 ###Test & exercice pour le cours de CMS (qui n'en est pas un) sur le site Tumblr. 
 
-[Voir le Tumblr](www.cms-dodb.tumblr.com)
+[Voir le Tumblr](http://cms-dodb.tumblr.com)
 
 
 Police : Gibson
