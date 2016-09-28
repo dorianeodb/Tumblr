@@ -15,7 +15,7 @@ Police : Gibson
 
 
 Favicon
-![Favicon](https://d30y9cdsu7xlg0.cloudfront.net/noun-svg/101195.svg?Expires=1475012652&Signature=C07RJLz0j52y5jl-iJaianySZ~45cLTOrMzd6omvn9m4Y-L~25N~IPwB8Yc7K0QMw44LkXGkyRg8v~jaVBWXjqeF9aHwi1SK-2g4YII0CDORDK8yKLJp7gkC8H3rgfeugup4YVkF~QlEcmXyEFZVd-gnzYW-hCS37rXV015OA7o_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q)
+![Favicon](https://d30y9cdsu7xlg0.cloudfront.net/noun-svg/101195.svg?Expires=1475047195&Signature=A5HTGroiK9fKmtCju8eA~DTOzxYbvC9rSMoTxjQB7v~PBzk7zHg4d8ut81rP28EqiDQppJygN51CBZV26LOYZySKMgLme-VArauHHuutLblnkVZWjwMMeq7N8adRo8eSnUvWwaxp8xvJTGsN~Vtqm5yrYhVRnPFUXz21r2KvtEw_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q)
 
 Bannière web
 ![Bannière Web](https://s-media-cache-ak0.pinimg.com/564x/28/1b/30/281b308e1933f314b6b693a4d48ae8be.jpg)
